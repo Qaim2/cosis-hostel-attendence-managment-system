@@ -1,0 +1,8 @@
+{
+  "name": "COSIS Hostels Attendence Management System",
+  "description": "COSIS Hostels Attendence Management System - Daily Prayers & Resident Attendance Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
